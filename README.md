@@ -1,6 +1,6 @@
 # ML-Projects-
 Prediction of Uber Rides 
-Predict the price of the Uber ride from a given pickup point to the agreed drop-off location. Perform following tasks: 
+Predict the price of the Uber ride from a given pickup point to the agreed drop-off location. Tasks Performed: 
 1. Pre-process the dataset.
 2. Identify outliers.
 3. Check the correlation.
