@@ -1,11 +1,8 @@
-# ML-Projects-
-Prediction of Uber Rides 
-Predict the price of the Uber ride from a given pickup point to the agreed drop-off location. Tasks Performed: 
-1. Pre-process the dataset.
-2. Identify outliers.
-3. Check the correlation.
-4. Implement linear regression and ridge, Lasso regression models.
-5. Evaluate the models and compare their respective scores like R2, RMSE, etc.
-
-
-Dataset link: https://www.kaggle.com/datasets/yasserh/uber-fares-dataset
+# ML and Data Analysis -Projects-
+1. Prediction of Uber Rides 
+2. Random Forest Classifier model to predict the safety of the car
+3. K-Means clustering on Iris.csv dataset. Determined number of clusters 
+using the elbow method.
+4. Data Analysis of Sales Data 
+5. Data Wrangling on Real Estate Market
+6. Data Wrangling 
