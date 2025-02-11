@@ -6,3 +6,6 @@
 5. Data Analysis of Shopping Malls.
 6. Data Analysis on Sales.
 7. Data Wrangling 
+
+
+Please check all the branches to review the projects!
