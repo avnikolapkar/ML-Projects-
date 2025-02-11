@@ -4,4 +4,5 @@
 3. K-Means clustering on Iris.csv dataset. Determined number of clusters 
 using the elbow method.
 4. Data Analysis of Shopping Malls.
-5. Data Wrangling 
+5. Data Analysis on Sales.
+6. Data Wrangling 
