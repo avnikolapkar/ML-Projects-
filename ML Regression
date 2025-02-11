@@ -6,6 +6,5 @@ location. Performed following tasks:
 4. Implement linear regression and ridge, Lasso regression models. 
 5. Evaluate the models and compare their respective scores like R2, RMSE, etc.
 
-
 Dataset link: 
 https://www.kaggle.com/datasets/yasserh/uber-fares-dataset
