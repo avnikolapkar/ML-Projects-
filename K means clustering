@@ -1,0 +1,2 @@
+- K-Means clustering on Iris.csv dataset. Determined number of clusters using the elbow method. 
+Dataset Link: https://www.kaggle.com/datasets/uciml/iris
